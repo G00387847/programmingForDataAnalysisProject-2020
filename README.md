@@ -12,15 +12,19 @@ The problem solving will base on how to generate a dataset that is close enough 
 
 For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose. Specifically, in this project you should:
 
-Lunch of Healthy Ireland 2021
+# Lunch of Healthy Ireland 2021
 This is the seventh time the Healthy Ireland Survey will be conducted and adds to the data collected in the previous surveys from 2015 - 2020. It is envisaged that a representative sample of approximately 7,400 people, aged 15 and older, living in Ireland will be interviewed between October 2020 and June 2021.
 
 The project will base its focus research and investigation
 
 - Physical Activity
+
 - Smoking
+
 - Height
+
 -Weight and BMI
+
 using 2019 healthy Ireland summary report
 
 # Packages use for the Project
