@@ -23,9 +23,7 @@ The project will base its focus research and investigation
 
 - Height
 
--Weight and BMI
-
-using 2019 healthy Ireland summary report
+- Weight and BMI
 
 # Packages use for the Project
 
@@ -65,4 +63,4 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 
 - Worlddata.info, https://www.worlddata.info/average-bodyheight.php
 
-SimonMcLain, https://github.com/SimonMcLain/GMIT-Programming-for-Data-Analysis-Project/blob/master/PDA%20Project%202018.ipynb
+- SimonMcLain, https://github.com/SimonMcLain/GMIT-Programming-for-Data-Analysis-Project/blob/master/PDA%20Project%202018.ipynb
